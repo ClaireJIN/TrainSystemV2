@@ -1,0 +1,3 @@
+FileController中无法使用Trains中的数组
+
+上一个页面中的GET无法传到下一个页面， 即购买页面数据
